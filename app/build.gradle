@@ -5,7 +5,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion '23.0.2'
     defaultConfig {
-        applicationId "io.github.joshkergan.our_favourites"
+        applicationId "io.github.joshkergan.favourites"
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
@@ -19,7 +19,7 @@ android {
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
-        targetCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_8
     }
     productFlavors {
     }

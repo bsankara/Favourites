@@ -1,19 +1,20 @@
 {
-  "project_info": {
-    "project_id": "gift-it-139b7",
-    "project_number": "270467045424",
-    "name": "Gift It"
-  },
+  "project_info":
+    {
+      "project_id": "favourites-2e5e6",
+      "project_number": "614743087777",
+      "name": "Favourites"
+    },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:270467045424:android:95fb32702e129d2d",
-        "client_id": "android:io.github.joshkergan.gift_it",
+        "mobilesdk_app_id": "1:614743087777:android:c6b98054b84c041d",
+        "client_id": "android:io.github.joshkergan.favourites",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "io.github.joshkergan.gift_it"
-        }
-      },
+          "package_name": "io.github.joshkergan.favourites"
+          }
+        },
       "oauth_client": [],
       "api_key": [],
       "services": {
@@ -37,8 +38,8 @@
         "ads_service": {
           "status": 1
         }
+        }
       }
-    }
   ],
   "client_info": [],
   "ARTIFACT_VERSION": "1"
