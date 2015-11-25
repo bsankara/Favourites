@@ -9,6 +9,9 @@
     <!--  The property id associated with this analytics tracker -->
     <string name="ga_trackingId">UA-68946018-1</string>
 
+    <!-- Make sure fatal crashes can be reported -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
     <!--
       See Project Structure -> Analytics -> Google Analytics -> Learn More
       to learn more about configuring this file.
